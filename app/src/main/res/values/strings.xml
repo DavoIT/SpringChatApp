@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpringChatApp</string>
+    <string name="title_activity_chat">Chat</string>
+</resources>
